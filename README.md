@@ -373,7 +373,7 @@ Seed tạo dữ liệu mẫu cho cả ba vai trò. Việc đăng nhập vẫn s�
     <td align="center" width="160">
       <a href="https://github.com/yummiyummihoang">
         <img src="https://github.com/yummiyummihoang.png?size=100" width="80" alt="yummiyummihoang" /><br />
-        <sub><b>happywei09</b></sub>
+        <sub><b>yummiyummihoang</b></sub>
       </a>
     </td>
     <td align="center" width="160">
